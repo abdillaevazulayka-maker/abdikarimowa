@@ -1,0 +1,24 @@
+{
+  "name": "Кыздар медресеси «Илим Булагы»",
+  "tagline": "Кыздар үчүн билим, тарбия жана ыңгайлуу жашоо чөйрөсү",
+  "language": "ky",
+  "description": "Кыздар медресеси «Илим Булагы» - билим, тарбия, жатакана, тамак-аш жана 24/7 козомол жердин маалыматы.",
+  "contacts": {
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "address": "",
+    "hours": "Дүйшөмбү - жекшемби, 09:00 - 17:00"
+  },
+  "navigation": [
+    { "label": "Башкы бет", "path": "/" },
+    { "label": "Медресе жөнүндө", "path": "/about" },
+    { "label": "Жатакана", "path": "/accommodation" },
+    { "label": "Тамак-аш", "path": "/meals" },
+    { "label": "24/7 козомол", "path": "/supervision" },
+    { "label": "Окуу", "path": "/education" },
+    { "label": "Галерея", "path": "/gallery" },
+    { "label": "КБС", "path": "/faq" },
+    { "label": "Байланыш", "path": "/contacts" }
+  ]
+}

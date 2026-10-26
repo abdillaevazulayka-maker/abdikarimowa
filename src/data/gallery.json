@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "name": "Окуу жайлары",
+      "items": [
+        {
+          "title": "Сабак бөлмөсү",
+          "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Сабак бөлмөсүнүн сүрөтү"
+        },
+        {
+          "title": "Китепкана",
+          "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Китепкана бөлмөсүнүн сүрөтү"
+        }
+      ]
+    },
+    {
+      "name": "Жатакана",
+      "items": [
+        {
+          "title": "Жатакана бөлмөсү",
+          "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Жатакана бөлмөсүнүн сүрөтү"
+        },
+        {
+          "title": "Тазалык зонасы",
+          "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Тазалык зонасынын сүрөтү"
+        }
+      ]
+    },
+    {
+      "name": "Ашкана",
+      "items": [
+        {
+          "title": "Ашкана",
+          "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Ашкананын сүрөтү"
+        }
+      ]
+    },
+    {
+      "name": "Иш-чаралар",
+      "items": [
+        {
+          "title": "Иш-чара",
+          "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Иш-чара сүрөтү"
+        }
+      ]
+    }
+  ]
+}

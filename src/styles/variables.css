@@ -1,0 +1,38 @@
+:root {
+  --emerald-900: #0d3b2d;
+  --emerald-800: #184d3d;
+  --emerald-700: #1d5f4f;
+  --emerald-600: #266a58;
+  --emerald-500: #2e7a63;
+  --forest-900: #122b21;
+  --forest-800: #16372e;
+  --ivory: #f7f2e8;
+  --cream: #f3ead9;
+  --beige: #e4d6b7;
+  --gold: #b8884f;
+  --text: #1e2f2a;
+  --muted: #53645f;
+  --card: rgba(255, 255, 255, 0.75);
+  --shadow: 0 18px 40px rgba(14, 43, 34, 0.12);
+  --border: rgba(18, 43, 33, 0.1);
+  --radius-lg: 28px;
+  --radius-md: 18px;
+  --radius-sm: 12px;
+  --max-width: 1200px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
